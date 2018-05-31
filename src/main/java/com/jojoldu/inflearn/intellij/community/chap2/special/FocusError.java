@@ -5,4 +5,7 @@ public class FocusError {
     public void moveError() {
         return "";
     }
+    public void moveError() {
+        return "";
+    }
 }
